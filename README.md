@@ -1,10 +1,8 @@
 # Flowzz Shopping Helper
 
-<div align="center">
-  <img src="static/flowzz-shopping-helper.png" height="400px"/>
-</div>
+![Flowzz Shopping Helper](/static/flowzz-shopping-helper.png "The logo of the Flowzz Shopping Helper extension, depicting a cannabis leave")
 
-# What is it?
+# :grey_question: What is it?
 
 Flowzz Shopping Helper is a browser extension to compare strains and prices on [flowzz.com](https://flowzz.com/). 
 Make informed decisions with our tool for finding the best cannabis strains at the best prices.
@@ -28,7 +26,9 @@ Hint: This extension has been fully generated with the help of ChatGTP.
 
 ![Flowzz Shopping Helper](/demo/extension.png "A screenshot of the Flowzz Shopping Helper extension")
 ![Flowzz Shopping Helper](/demo/extension-dark.png "A screenshot of the Flowzz Shopping Helper extension in dark mode")
-
+![Flowzz Shopping Helper](/demo/extension1.png "A screenshot of the Flowzz Shopping Helper extension")
+![Flowzz Shopping Helper](/demo/extension2.png "A screenshot of the Flowzz Shopping Helper extension")
+![Flowzz Shopping Helper](/demo/extension3.png "A screenshot of the Flowzz Shopping Helper extension")
 
 
 # :factory: How to install
@@ -57,7 +57,7 @@ Until it has been approved, you can choose to
 
 
 
-# Credits
+# :raising_hand: Credits
 Our sincere thanks go to everyone in the [https://www.reddit.com/r/Cannabis_Apotheken/](https://www.reddit.com/r/Cannabis_Apotheken/) community who contributed and supported this project. 
 
 # :envelope: Contact
