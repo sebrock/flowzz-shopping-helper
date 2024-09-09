@@ -1,15 +1,20 @@
-# Flowzz Shopping Helper
+# Flowzz Shopping Helper 🔎 🌿 ⚕️
+
+# Flowzz Shopping Helper 🔎 🥦  ⚕️
 
 ![Flowzz Shopping Helper](/static/flowzz-shopping-helper.png "The logo of the Flowzz Shopping Helper extension, depicting a cannabis leave")
 
-# :grey_question: What is it?
+# 🌿 What is it?
 
-Flowzz Shopping Helper is a browser extension to compare strains and prices on [flowzz.com](https://flowzz.com/). 
-Make informed decisions with our tool for finding the best cannabis strains at the best prices.
+Flowzz Shopping Helper 🌿 is a powerful tool that supports eligible medical marihuana patients in Germany in finding their prescribed cannabis flowers at the best available price at their favorite pharmacy.
+fill their prescription convcompare strains and prices of m available to  medical marihuana patiens in Germany.
+It technically runs as a browser extension for Chrome, Firefox and Edge and uses real time data from [flowzz.com](https://flowzz.com/). 
 
-Elevate your cannabis shopping experience with the Flowzz Shopping Helper. This powerful browser extension for Chrome, Firefox and Edge seamlessly integrates with flowzz.com, allowing you to effortlessly compare strains and prices across multiple vendors. Whether you're a medical user or a connoisseur, this tool is designed to make your search for the perfect strain quick, easy, and tailored to your needs.
+Make informed decisions 
 
-Hint: This extension has been fully generated with the help of ChatGTP.
+Elevate your cannabis shopping experience with the Flowzz Shopping Helper. Allowing you to effortlessly compare strains and prices across multiple Pharmacies. Whether you're a medical user or a connoisseur, this tool is designed to make your search for the perfect strain quick, easy, and tailored to your needs.
+
+Disclaimer: This extension has been fully generated with the help of ChatGTP. 🤖
 
 # Key Features
 * **Automated Strain Syncing**: Automatically sync strains from [flowzz.com](https://flowzz.com/) to your local storage, ensuring your data is always up-to-date.
@@ -17,7 +22,7 @@ Hint: This extension has been fully generated with the help of ChatGTP.
 * **Advanced Search**: Refine your search with filters for Price, THC, CBD, Review Score + Count, Producer, and Genetics.
 
 
-# Extension Usage
+# :u Extension Usage
 
 * **Open Flowzz**: Open https://flowzz.com and log in to your account.
 * **Launch the extension**: Click on the weed icon to open the extension.
