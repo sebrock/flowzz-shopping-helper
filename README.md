@@ -1,13 +1,13 @@
-# Flowzz Shopping Helper 🔎 🌿 ⚕️
-
-# Flowzz Shopping Helper 🔎 🥦  ⚕️
+# Flowzz Shopping Helper 🔎 🌿 ⚕️ 
 
 ![Flowzz Shopping Helper](/static/flowzz-shopping-helper.png "The logo of the Flowzz Shopping Helper extension, depicting a cannabis leave")
 
 # 🌿 What is it?
 
 Flowzz Shopping Helper 🌿 is a powerful tool that supports eligible medical marihuana patients in Germany in finding their prescribed cannabis flowers at the best available price at their favorite pharmacy.
-fill their prescription convcompare strains and prices of m available to  medical marihuana patiens in Germany.
+The developer is picking up on real-world experiences of patients, thus identifying opportunities to improve the software.
+
+It follows a patient-centric  interface Having an Fill their prescription convcompare strains and prices of m available to  medical marihuana patiens in Germany.
 It technically runs as a browser extension for Chrome, Firefox and Edge and uses real time data from [flowzz.com](https://flowzz.com/). 
 
 Make informed decisions 
@@ -17,6 +17,7 @@ Elevate your cannabis shopping experience with the Flowzz Shopping Helper. Allow
 Disclaimer: This extension has been fully generated with the help of ChatGTP. 🤖
 
 # Key Features
+* Patient-centric user interface
 * **Automated Strain Syncing**: Automatically sync strains from [flowzz.com](https://flowzz.com/) to your local storage, ensuring your data is always up-to-date.
 * **Dark Mode**: Switch to Dark Mode for a visually comfortable browsing experience, especially during late-night sessions.
 * **Advanced Search**: Refine your search with filters for Price, THC, CBD, Review Score + Count, Producer, and Genetics.
