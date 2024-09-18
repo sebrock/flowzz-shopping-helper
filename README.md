@@ -1,10 +1,10 @@
-# Flowzz Rezept Helper 🔎 🌿 ⚕️ 
+# Flowzz Rezept Helfer 🔎⚕️📝🌿
 
-![Flowzz Shopping Helper](/static/flowzz-shopping-helper.png "The logo of the Flowzz Shopping Helper extension, depicting a cannabis leave")
+![Flowzz Rezept Helfer](/static/flowzz-shopping-helper.png "The logo of the Flowzz Shopping Helfer extension, depicting a cannabis leave")
 
-# 🌿 What is Flowzz Rezept Helper 🔎 🌿 ⚕️ ?
+# 🌿 What is Flowzz Rezept Helfer 🔎⚕️📝🌿?
 
-Flowzz Rezept Helper 🔎 🌿 ⚕️ is a powerful browser extension that supports eligible medical marijuana patients in Germany in finding their prescribed cannabis flowers at the best available price at their favorite pharmacy.
+Flowzz Rezept Helfer 🔎⚕️📝🌿 is a powerful browser extension that supports eligible medical marijuana patients in Germany in finding their prescribed cannabis flowers at the best available price at their favorite pharmacy.
 It runs with Chrome, Firefox and Edge and uses real time data from [flowzz.com](https://flowzz.com/) which is the largest database for legal cannabis in Germany!
 
 # ⚕️ Medical Cannabis in Germany
@@ -19,9 +19,9 @@ Chronic pain, sleep disorders, migraines, headaches, ADHD, depression, tinnitus,
 # Patient Challenges
 Patients seeking for remediation of their symptoms through the use of medical cannabis, maybe for the first time, are now facing three challenges:
 
-* finding a doctor who would prescribe medical cannabis,
-* finding the right flowers from the right strain which helps them best
-* finding pharmacies who can fill these prescriptions
+* finding a doctor who are aware of the health benefits medical cannabis can have for a wide range of patients and symptoms and therefore prescribe it
+* finding the right flowers from the right strain (which is best suited to remediate their symptoms best) 
+* finding pharmacies who have the desired flowers available and can fill these prescriptions at the most economic price point.
 
 A number of 'Telemedicine' platforms have sprouted in 2024, connecting patients to doctors to get a prescription and enable the doctors to send the medication to a pharmacy the patients selects.
 While these platforms work reasonably well if you don't care for price or don't want to get your medication from your favorite pharmacy.
@@ -30,7 +30,7 @@ Since not all patients can rely on their medical insurance to cover the cost for
 And even with support of a website like Flowzz.com, it is sometimes hard to beat the market if you are trying to fill your prescription at a economically feasible price.
 
 # 🧑‍🤝‍🧑 Community Project
-This is a community project first published in the [r/Cannabis_Apotheken](https://www.reddit.com/r/Cannabis_Apotheken/) community on reddit in July of 2024.
+Flowzz Rezept Helfer 🔎⚕️📝🌿 is a community project first published in the [r/Cannabis_Apotheken](https://www.reddit.com/r/Cannabis_Apotheken/) community on reddit in July of 2024.
 For German medical cannabis patients, this subreddit serves as a discussion forum about their experiences with pharmacies, doctors, and specific strains.
 The developer has been picking up on several feature requests from of patients, thus identifying opportunities to improve the software.
 
@@ -40,7 +40,7 @@ Disclaimer: This extension has been fully generated with the help of ChatGTP. �
 
 # Key Features
 ## **🙆 Patient-centric user interface**
-Elevate your medical cannabis experience with the Flowzz Rezept Helper. Allowing you to effortlessly compare strains and prices across multiple Pharmacies, this tool is designed to make your search for the perfect strain quick, easy, and tailored to your needs.
+Elevate your medical cannabis experience with the Flowzz Rezept Helfer. Allowing you to effortlessly compare strains and prices across multiple Pharmacies, this tool is designed to make your search for the perfect strain quick, easy, and tailored to your needs.
 ## **♻️ Automated Strain Syncing**: 
 Automatically syncs strains from [flowzz.com](https://flowzz.com/) to your local storage, ensuring your data is always up-to-date.
 ## **🕶️ Dark Mode**: 
@@ -59,28 +59,28 @@ Save your search parameters for the next prescription.
 
 ## Screenshots
 
-![Flowzz Shopping Helper](/demo/extension.png "A screenshot of the Flowzz Shopping Helper extension")
+![Flowzz Rezept Helfer](/demo/extension.png "A screenshot of the Flowzz Shopping Helfer extension")
 
 ### 🕶️ Dark Mode
-![Flowzz Shopping Helper](/demo/extension-dark.png "A screenshot of the Flowzz Shopping Helper extension in dark mode")
+![Flowzz Rezept Helfer](/demo/extension-dark.png "A screenshot of the Flowzz Shopping Helfer extension in dark mode")
 
 ### 🔎🔎 Advanced Search
-![Flowzz Shopping Helper](/demo/extension1.png "A screenshot of the Flowzz Shopping Helper extension")
+![Flowzz Rezept Helfer](/demo/extension1.png "A screenshot of the Flowzz Shopping Helfer extension")
 
 ### ⭐ Saved Searches
-![Flowzz Shopping Helper](/demo/extension2.png "A screenshot of the Flowzz Shopping Helper extension")
+![Flowzz Rezept Helfer](/demo/extension2.png "A screenshot of the Flowzz Shopping Helfer extension")
 
 ### 💶 Price Finder
-![Flowzz Shopping Helper](/demo/extension3.png "A screenshot of the Flowzz Shopping Helper extension")
+![Flowzz Rezept Helfer](/demo/extension3.png "A screenshot of the Flowzz Shopping Helfer extension")
 
 
 # :factory: How to install
 
 ## Chrome Web Store (soon :tm:)
 
-![Flowzz Shopping Helper](/demo/chrome-web-store-logo.png "Chrome Web Store Logo")
+![Flowzz Rezept Helfer](/demo/chrome-web-store-logo.png "Chrome Web Store Logo")
 
-:construction_worker: Flowzz Shopping Helper Version 1.01 has been submitted for listing in the Chrome Web Store 
+:construction_worker: Flowzz Rezeopt Helfer Version 1.01 has been submitted for listing in the Chrome Web Store 
 
 ![Chrome Web Store](/demo/chrome-web-store-listing.png "Chrome Web Store Listing")
 
@@ -89,13 +89,13 @@ Until it has been approved, you can choose to
 ## :wrench: Install the unzipped extension manually
 
 ### Chrome/Edge
-1. Download the latest zip file from [Releases](https://github.com/FrittenToni/flowzz-shopping-helper/releases).
+1. Download the latest zip file from [Releases](https://github.com/FrittenToni/flowzz-shopping-Helfer/releases).
 2. Unzip the extension.
 3. Open Chrome: chrome://extensions, or Edge's extensions management page.
 4. Click "Load unpacked extension" and select the folder containing your plugin.
 
 ### Firefox
-1. Download the latest .xpi file from [Releases](https://github.com/FrittenToni/flowzz-shopping-helper/releases).
+1. Download the latest .xpi file from [Releases](https://github.com/FrittenToni/flowzz-shopping-Helfer/releases).
 2. Open "Manage Extensions"
 3. Install "Add-On from file"
 
